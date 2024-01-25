@@ -1,1 +1,1 @@
-This is a Portfolio Website which id developed in HTML.
+This is a Portfolio Website which is developed in HTML.
